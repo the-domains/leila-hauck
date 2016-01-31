@@ -1,0 +1,28 @@
+name: Leila Hauck
+favicon: null
+layout_spectrum: 0.5974179646000266
+typography_spectrum: 0.6713124841917306
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.021968081360682845
+  lightness: 0.41470386553555727
+  saturation: 0.8807840088848025
+  rhythmicContrast: 0.6648706896230578
+purpose: []
